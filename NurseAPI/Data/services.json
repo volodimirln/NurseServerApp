@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Название",
+    "price": 1000,
+    "valute": "₽",
+    "Advantage1": "описание",
+    "Advantage2": "описание",
+    "Advantage3": "описание"
+  },
+  {
+    "id": 2,
+    "name": "Название",
+    "price": 1000,
+    "valute": "₽",
+    "Advantage1": "описание",
+    "Advantage2": "описание",
+    "Advantage3": "описание"
+  },
+  {
+    "id": 3,
+    "name": "Название",
+    "price": 1000,
+    "valute": "₽",
+    "Advantage1": "описание",
+    "Advantage2": "описание",
+    "Advantage3": "описание"
+  }
+]

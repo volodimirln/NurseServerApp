@@ -1,0 +1,14 @@
+{
+  "name": "TelegramBot",
+  "address": "127.110.110.55",
+  "port": 7777,
+  "telegramToken": "",
+  "chatId": 7098372777,
+  "devChatId": 879286777,
+  "domain": "http://test.twc1.net:911",
+  "numberMessages": 5,
+  "dataConfig": "22:15 22:04:2024",
+  "password": "oem34@AIEoxjdp;?\u003C",
+  "addressClient": "127.110.110.77",
+  "portClient":  5555
+}

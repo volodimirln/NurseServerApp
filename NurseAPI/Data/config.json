@@ -1,0 +1,11 @@
+{
+  "name": "NurseAPI",
+  "address": "127.110.110.55",
+  "port": 7777,
+  "delayMessage": 3000,
+  "delayServer": 5000,
+  "numberMessages": 10,
+  "developStatus": true,
+  "serverPort": 7000,
+  "password": "oem34@AIEoxjdp;?<"
+}
